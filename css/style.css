@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: blue;
+    min-height: 100px;
+    margin-bottom: 20px;
+}
+.border-custom{
+    border: 3px solid yellow !important;
+}
+.bg-custom{
+    color: white;
+    background-color: black;
+    margin-bottom: 20px;
+}
